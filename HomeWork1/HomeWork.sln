@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork1.Task4", "HomeWork
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork1.Task5", "HomeWork1.Task5\HomeWork1.Task5.csproj", "{5429886D-F68D-4D84-8E2D-E6386C8065DA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork1", "HomeWork1", "{4B491119-55C6-41B1-AA9E-E9D9C74604FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,13 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E0DF8BDA-F54A-4B69-8610-DEEDC73421B1} = {4B491119-55C6-41B1-AA9E-E9D9C74604FF}
+		{E63C12E4-B7A7-4251-A4F5-10A001F58428} = {4B491119-55C6-41B1-AA9E-E9D9C74604FF}
+		{C67E6530-6578-43E4-BB94-B88DF54558D6} = {4B491119-55C6-41B1-AA9E-E9D9C74604FF}
+		{9EA2A861-3A9B-4ACC-B1F9-C029112F6939} = {4B491119-55C6-41B1-AA9E-E9D9C74604FF}
+		{5429886D-F68D-4D84-8E2D-E6386C8065DA} = {4B491119-55C6-41B1-AA9E-E9D9C74604FF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8FE9826E-FA98-4754-9F89-0175AF788F9C}
